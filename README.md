@@ -13,7 +13,7 @@ This project is a result of an assignment provided by MIT XPro. This assignment 
 
 # How to Run
 Click on this link to view the project. 
-<a href=https://statepark.github.io/bus-tracker>Bus Tracker Excercisee</a>
+<a href=https://statepark.github.io/bus-tracker>Bus Tracker Excercise</a>
 
 # Roadmap for Future Improvements
 To elaborate on this project I would like to import co-ordinates from a server that represent an actual bus. I would like to have teh bus change color to red if it is stopped at a stop, orange if it is stopped in traffic and green of it is moving. 
